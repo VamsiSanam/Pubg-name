@@ -2,7 +2,7 @@ import turtle
 
 t = turtle.Turtle()
 turtle.bgcolor("black")
-turtle.title("Heart Hacker")
+turtle.title("Vamsi Sanam")
 t.color("white")
 t.speed(10)
 
